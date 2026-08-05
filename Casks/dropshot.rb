@@ -7,7 +7,7 @@ cask "dropshot" do
   desc "Screenshot and screen recording tool for macOS"
   homepage "https://dropshot.tools"
 
-  depends_on macos: ">= :ventura"
+  depends_on macos: :ventura
 
   app "DropShot.app"
 

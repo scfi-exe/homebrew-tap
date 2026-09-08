@@ -1,6 +1,6 @@
 cask "dropshot" do
-  version "1.1"
-  sha256 "9b0c02c3b6acb8f2ede0ccaefdbe9686826e40925d6dc4a9d245334817776b38"
+  version "1.2"
+  sha256 "1e9f638a28c37ffd9941b21ec7979cb02a1e161e8a4f0065cdc810485ec7da0a"
 
   url "https://github.com/scfi-exe/DropShot/releases/download/v#{version}/DropShot-#{version}.dmg"
   name "DropShot"
